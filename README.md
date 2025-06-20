@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213937633-09d4c03b-982e-4bdf-bd38-1452344f5fa3.gif" alt="Abhinav Lanka Banner"/>
+  <img src="https://www.codedex.io/images/p5/p5courseimage.gif" alt="header" />
 </p>
 
 <h1 align="center">Hey there 👋 I'm Abhinav Lanka</h1>
@@ -41,7 +41,6 @@
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40"/></a>
   <a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
   <a href="https://figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
 </p>
 
 ---
