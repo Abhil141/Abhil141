@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://www.codedex.io/images/p5/p5courseimage.gif" alt="header" />
+  <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1350&q=80" alt="header" />
 </p>
 
 <h1 align="center">Hey there 👋 I'm Abhinav Lanka</h1>
