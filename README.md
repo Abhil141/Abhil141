@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhil141/Abhil141/main/assets/dev-banner-short.png" alt="header" style="max-height: 200px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/213937633-09d4c03b-982e-4bdf-bd38-1452344f5fa3.gif" alt="Abhinav Lanka Banner"/>
 </p>
 
 <h1 align="center">Hey there 👋 I'm Abhinav Lanka</h1>
@@ -8,7 +8,7 @@
 
 <p align="center">
 🎓 B.Tech IT-Business Informatics @ IIIT Allahabad  
-📊 Certified in Azure Funda & Advanced SQL  
+📊 Certified in Azure & Advanced SQL  
 💻 Building smart, scalable systems across cloud, data & web  
 </p>
 
