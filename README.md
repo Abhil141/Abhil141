@@ -1,7 +1,10 @@
 <!-- Header Image -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1350&q=80" alt="header" />
+<p align="center" style="overflow: hidden; height: 180px; position: relative;">
+  <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1350&q=80" 
+       alt="header" 
+       style="width: 100%; object-fit: cover; object-position: center top;" />
 </p>
+
 
 <h1 align="center">Hey there 👋 I'm Abhinav Lanka</h1>
 <h3 align="center"> Developer | Cloud & Data Enthusiast | Full Stack Dev</h3>
