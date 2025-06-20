@@ -1,15 +1,15 @@
 
 <!-- Header Image -->
 <p align="center">
-    <img src="https://raw.githubusercontent.com/AbhilashRoyC/AbhilashRoyC/main/header.png" alt="Abhinav Lanka Banner" />
+  <img src="https://user-images.githubusercontent.com/74038190/213937633-09d4c03b-982e-4bdf-bd38-1452344f5fa3.gif" alt="Abhinav Lanka Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhinav Lanka</h1>
 <h3 align="center">Data Analytics | Full Stack Dev | Cloud | IoT</h3>
 
--🔧 Working with **Cloud Tools**, **IoT**, and **Data-Driven Systems**  
+- 🔧 Working with **Cloud Tools**, **IoT**, and **Data-Driven Systems**  
 
--  🧠 Currently learning **Python** | Exploring **Machine Learning**  
+- 🧠 Currently learning **Python** | Exploring **Machine Learning**  
 
 - 🎓 Certified in **Azure Fundamentals (AZ-900)**, **Azure Data Fundamentals (DP-900)**, and **Advanced SQL**
 
