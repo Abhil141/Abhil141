@@ -1,7 +1,7 @@
 
 <!-- Header Image -->
 <p align="center">
-  <img src="https://www.codedex.io/images/p5/p5courseimage.gif" alt="header" />
+    <img src="https://raw.githubusercontent.com/AbhilashRoyC/AbhilashRoyC/main/header.png" alt="Abhinav Lanka Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhinav Lanka</h1>
