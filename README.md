@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hey there 👋 I'm Abhinav Lanka</h1>
-<h3 align="center"> Developer | Cloud & Data Enthusiast | Full Stack Dev</h3>
+<h3 align="center"> Developer | Cloud & Data Enthusiast | Frontend Web Dev</h3>
 
 <p align="center">
 🎓 B.Tech IT-Business Informatics @ IIIT Allahabad  
