@@ -1,11 +1,3 @@
-<!-- Header Image -->
-<p align="center" style="overflow: hidden; height: 180px; position: relative;">
-  <img src="https://videos.openai.com/vg-assets/assets%2Ftask_01jy7g82exf0r9ypbhsv48y8kq%2F1750451190_img_1.webp?st=2025-06-20T18%3A55%3A35Z&se=2025-06-26T19%3A55%3A35Z&sks=b&skt=2025-06-20T18%3A55%3A35Z&ske=2025-06-26T19%3A55%3A35Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=8ebb0df1-a278-4e2e-9c20-f2d373479b3a&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=DPC41DyzuyXvEoCS2D5pIb%2FrIxHXX51CogeLdVKrkGI%3D&az=oaivgprodscus"
-       alt="header" 
-       style="width: 120%; object-fit: cover; object-position: center top;" />
-</p>
-
-
 <h1 align="center">Hey there 👋 I'm Abhinav Lanka</h1>
 <h3 align="center"> Developer | Cloud & Data Enthusiast | Frontend Web Dev</h3>
 
